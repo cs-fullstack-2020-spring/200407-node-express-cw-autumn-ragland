@@ -13,7 +13,7 @@
 
 ### Exercise 2
 - Define a variable `userName` and set it equal to your name
-- Define a routes for the path `'/displayName'` that displays your name
+- Define a route for the path `'/displayName'` that displays your name
 
 ### Exercise 3
 - Create an array of student objects with properties name and average confidence

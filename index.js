@@ -30,7 +30,7 @@ app.get('/', (req,res) => {
 // simple route at localhost:8000/displayName
 app.get('/displayName', (req,res) => {
     // variable for my name
-    userName = "Autumn"
+    let userName = "Christina"
     // send my name to browser
     res.send(`The name is ${userName}`);
 });
